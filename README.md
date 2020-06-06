@@ -3,5 +3,5 @@ this is a simple registration form by using HTML, CSS and bootstrap
 
 https://shabeebcoder.github.io/simple-registration-form/
 
-![alt text](https://drive.google.com/file/d/1_oH1ekYUeO7i8Ck4-EgwfhSAOET_qwNa/view?usp=sharing)
-<img src="https://drive.google.com/file/d/1_oH1ekYUeO7i8Ck4-EgwfhSAOET_qwNa/view?usp=sharing" />
+![registration form](https://user-images.githubusercontent.com/39030086/83943820-f06ef200-a80f-11ea-96d4-177e945133a2.png)
+
